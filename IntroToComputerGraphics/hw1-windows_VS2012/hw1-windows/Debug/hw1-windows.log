@@ -1,0 +1,10 @@
+﻿  grader.cpp
+  Transform.cpp
+  shaders.cpp
+  main.cpp
+c:\users\stevie boy\dev\edxcourses\introtocomputergraphics\hw1-windows_vs2012\hw1-windows\main.cpp(39): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\stevie boy\dev\edxcourses\introtocomputergraphics\hw1-windows_vs2012\hw1-windows\main.cpp(40): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\stevie boy\dev\edxcourses\introtocomputergraphics\hw1-windows_vs2012\hw1-windows\main.cpp(43): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+  Generating Code...
+  hw1-windows.vcxproj -> C:\Users\Stevie Boy\dev\EdXCourses\IntroToComputerGraphics\hw1-windows_VS2012\Debug\hw1-windows.exe
+  hw1-windows.vcxproj -> C:\Users\Stevie Boy\dev\EdXCourses\IntroToComputerGraphics\hw1-windows_VS2012\Debug\hw1-windows.pdb (Partial PDB)
